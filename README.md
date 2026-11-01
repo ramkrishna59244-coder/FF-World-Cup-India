@@ -1,2 +1,7 @@
-# FF-World-Cup-India
-Free fire tournament 2027
+ff-world-cup-2027/
+├── index.html
+├── style.css
+├── script.js
+└── images/
+    ├── logo.png
+    └── banner.png
